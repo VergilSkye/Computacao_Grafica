@@ -2,6 +2,8 @@
 
 Criado por **Leonardo Santos** e **Virgílio Stefanin**.
 
+Entrega: 17 de março de 2021
+
 Implementação de uma cena gráfica que representa um avião sobrevoando uma paisagem montanhosa.
 
 ## Ferramentas utilizadas
