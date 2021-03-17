@@ -8,15 +8,15 @@ Implementação de uma cena gráfica que representa o um avião sobrevoando uma 
 - Unity 2020.3.0f1 (LTS)
 - Foram utilizados os seguintes assets:
 
-- A Piece of Nature, versão 1.1, feito por Evgenia.
+  - A Piece of Nature, versão 1.1, feito por Evgenia.
 
-- Fantasy Skybox FREE, versão 1.5.6, feito por Reder Knight
+  - Fantasy Skybox FREE, versão 1.5.6, feito por Reder Knight
 
-- Grass Flowers Pack Free, versão 1.0, feito por ALP8310
+  - Grass Flowers Pack Free, versão 1.0, feito por ALP8310
 
-- Standard Assets(for Unity 2018.4), versão 1.1.6, feito por Unity Technologies Inc.
+  - Standard Assets(for Unity 2018.4), versão 1.1.6, feito por Unity Technologies Inc.
 
-- Stealth Bomber, versão 1.0, feito por Hessburg
+  - Stealth Bomber, versão 1.0, feito por Hessburg
 
 ## Dificuldades Encontradas
 - Alguns scripts do pack Standard Assets disponibilizado pela Unity estavam datados, causando alguns erros de compilação.
