@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3cc70c42-4710-e394-3e7d-b609cb160150}</ProjectGuid>
+    <ProjectGuid>{f4b4aed1-f310-5b6d-c71b-cc2b174e44c1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -734,40 +734,40 @@
         <HintPath>/home/leonardo/Documents/2020.3.0f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>/home/leonardo/Documents/Unity Projects/trabalho02/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>/home/leonardo/Documents/Unity Projects/Computacao_Grafica/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>/home/leonardo/Documents/Unity Projects/trabalho02/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>/home/leonardo/Documents/Unity Projects/Computacao_Grafica/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>/home/leonardo/Documents/Unity Projects/trabalho02/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>/home/leonardo/Documents/Unity Projects/Computacao_Grafica/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Sysroot.Linux_x86_64">
-        <HintPath>/home/leonardo/Documents/Unity Projects/trabalho02/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
+        <HintPath>/home/leonardo/Documents/Unity Projects/Computacao_Grafica/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>/home/leonardo/Documents/Unity Projects/trabalho02/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>/home/leonardo/Documents/Unity Projects/Computacao_Grafica/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>/home/leonardo/Documents/Unity Projects/trabalho02/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>/home/leonardo/Documents/Unity Projects/Computacao_Grafica/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>/home/leonardo/Documents/Unity Projects/trabalho02/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>/home/leonardo/Documents/Unity Projects/Computacao_Grafica/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Toolchain.Linux-x86_64">
-        <HintPath>/home/leonardo/Documents/Unity Projects/trabalho02/Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64.dll</HintPath>
+        <HintPath>/home/leonardo/Documents/Unity Projects/Computacao_Grafica/Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/home/leonardo/Documents/Unity Projects/trabalho02/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/home/leonardo/Documents/Unity Projects/Computacao_Grafica/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>/home/leonardo/Documents/Unity Projects/trabalho02/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>/home/leonardo/Documents/Unity Projects/Computacao_Grafica/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/home/leonardo/Documents/Unity Projects/trabalho02/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/home/leonardo/Documents/Unity Projects/Computacao_Grafica/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.SysrootPackage.Editor">
-        <HintPath>/home/leonardo/Documents/Unity Projects/trabalho02/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
+        <HintPath>/home/leonardo/Documents/Unity Projects/Computacao_Grafica/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

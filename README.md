@@ -1,11 +1,14 @@
 # Trabalho Final da disciplina de Computação Gráfica do Instituto Federal de Brasília
 
-Feito por Leonardo Santos e Virgílio Stefanin
+Criado por **Leonardo Santos** e **Virgílio Stefanin**.
 
-Implementação de uma cena gráfica que representa o um avião sobrevoando uma paisagem montanhosa.
+Implementação de uma cena gráfica que representa um avião sobrevoando uma paisagem montanhosa.
 
 ## Ferramentas utilizadas
 - Unity 2020.3.0f1 (LTS)
+
+- Visual Studio Code, versão 1.54.3
+
 - Foram utilizados os seguintes assets:
 
   - A Piece of Nature, versão 1.1, feito por Evgenia.
